@@ -28,3 +28,12 @@ The output would be multiple lines to tweet, like this:
 ```
 
 Each line has a maximum of 240 characters (the current twitter limit), and the accounts are in random order. 
+
+## Files
+
+|File|Description|
+|----|-----------|
+|'ff-flipper-post.js'|The JavaScript program that will read the file of tweets, randomize and resize them, and post them.|
+|'conf.twitauth.json'|The keys needed to post tweets. This should be in your home directory, and names `.twitauth.json`.|
+|'follow-friday.txt|The file with all the categories and accounts.|
+
