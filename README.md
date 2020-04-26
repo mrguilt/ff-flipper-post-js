@@ -21,7 +21,9 @@ An example from my #cincinnati category:
 
 The output would be multiple lines to tweet, like this:
 
-`#ff #cincinnati @SWOhioAir @TriStateTrails @CinPubServices @cinastro @WNKU @CincyMuseum @HamCoRecycling @HamCoHealth @cincylibrary @CincyParks @wlwt @cincyartmuseum @cincyrec @cincinnatimetro @INHAILERradio @CB_Connector @CincyRedBike @cincymakerfaire @VoteHamCoBOE @wassonway
-#ff #cincinnati @SantaMariaCincy @radioartifact @CincySymphony @MetrobotCAC`
+```
+#ff #cincinnati @SWOhioAir @TriStateTrails @CinPubServices @cinastro @WNKU @CincyMuseum @HamCoRecycling @HamCoHealth @cincylibrary @CincyParks @wlwt @cincyartmuseum @cincyrec @cincinnatimetro @INHAILERradio @CB_Connector @CincyRedBike @cincymakerfaire @VoteHamCoBOE @wassonway
+#ff #cincinnati @SantaMariaCincy @radioartifact @CincySymphony @MetrobotCAC
+```
 
 Each line has a maximum of 240 characters (the current twitter limit), and the accounts are in random order. 
