@@ -17,7 +17,8 @@ The input is a file called `follow-friday.txt`. In it are lines that start with 
 `#category @account1 @account2 @account3...`
 
 An example from my #cincinnati category:
-#cincinnati @SWOhioAir @HamCoRecycling @CinPubServices  @CincySymphony @HamCoHealth @cinastro @wlwt @WNKU @cincyrec @CincyParks @cincylibrary @CincyMuseum @cincinnatimetro  @wassonway @cincymakerfaire @cincyartmuseum @CincyRedBike @MetrobotCAC @VoteHamCoBOE @TriStateTrails @CB_Connector @radioartifact @INHAILERradio @SantaMariaCincy
+
+`#cincinnati @SWOhioAir @HamCoRecycling @CinPubServices  @CincySymphony @HamCoHealth @cinastro @wlwt @WNKU @cincyrec @CincyParks @cincylibrary @CincyMuseum @cincinnatimetro  @wassonway @cincymakerfaire @cincyartmuseum @CincyRedBike @MetrobotCAC @VoteHamCoBOE @TriStateTrails @CB_Connector @radioartifact @INHAILERradio @SantaMariaCincy`
 
 The output would be multiple lines to tweet, like this:
 
